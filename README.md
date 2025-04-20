@@ -54,6 +54,7 @@ copy the fun.exe into the apache /var/www/html folder
 
 Start apache server
 sudo systemctl apache2 start
+
 ![Screenshot 2025-04-20 222717](https://github.com/user-attachments/assets/b99d3a92-19f4-4b40-9cd1-c0344effb158)
 
 
